@@ -20,12 +20,6 @@ I am a results-driven Data Analyst with a solid foundation in Artificial Intelli
 
 ---
 
-### 📈 GitHub Stats
-![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saeedsuleiman66&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedsuleiman66&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me:
-[<img align="left" alt="Saeed Soliman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/saeed-soliman-59668538a)
+[<img align="left" alt="Saeed Soliman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/saeed-soliman-analytics)
 <br />
